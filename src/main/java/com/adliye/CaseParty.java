@@ -8,7 +8,6 @@ public class CaseParty {
     private String partyRole;     // davaci / davali
     private Integer lawyerId;     // opsiyonel
 
-    // UI için gösterim alanı (avukat adı vs istersen sonra eklenir)
     public int getId() { return id; }
     public void setId(int id) { this.id = id; }
 
