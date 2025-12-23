@@ -228,7 +228,7 @@ public class CaseDetailForm extends JFrame {
             }
         }
     }
-
+     //DURUŞMA GÜNCELLEME
     private void updateSelectedHearing() {
         int row = hearingTable.getSelectedRow();
         if (row == -1) {
